@@ -1,6 +1,6 @@
-Test
+# Dataset Repository
 
-Include column with image dificulty
+### Example of use
 
 > python sequentiate.py -i ~/workspace/deep\_learning/datasets/segmentation/ours\_2021\_48/images/ -m ~/workspace/deep\_learning/datasets/segmentation/ours\_2021\_48/masks/0/ -o ./ --csv ./ours.csv --hour 48 --culture KATO3 --lens 10 --scientist Jordana --date 22-11 --difficulty easy
 
